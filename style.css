@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.k{
+color: blue;
+font-size: 20px;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Kelly Slab', cursive;
+}
+.subtitle{
+color:#ffc7c7;
+text-decoration: underline;
+}
+.topcloud{
+    position:absolute;
+   right: 0%;
+  top: 0%;
+}
+
+
+.middle-container{
+    margin:100px 0;
+}
+.profile-image{
+border-radius: 50%;
+}
+.intro{
+    width: 5%;
+    margin: auto;
+}
+hr{
+    width: 5%;
+    border-style: none none dotted;
+    border-width: 8px;
+    margin: 100px auto;
+    color: crimson;
+}
+.skills-row{
+    margin : 100px auto 100px auto;
+    widows : 50%;
+    /* float : left; */
+}
+.code-img{
+    width: 25%;
+    height: 25%;
+    margin-right: 30px;
+}
+.game-img{
+    width: 25%;
+    margin-left: 30px;
+}
+.bike-img{
+    margin-right: 30px;
+    width:25% ;
+}
